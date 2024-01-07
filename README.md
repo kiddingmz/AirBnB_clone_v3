@@ -17,7 +17,7 @@ REST API is Resource-based, a resource is an object and can be access by a URI. 
 
 ## Table of Content
 * [Environment](#environment)
-* [Getting Started](#getting started)
+* [Getting Started](#getting_started)
 * [Authors](#authors)
 
 ## Environment
