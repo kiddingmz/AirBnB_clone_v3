@@ -17,7 +17,7 @@ REST API is Resource-based, a resource is an object and can be access by a URI. 
 
 ## Table of Content
 * [Environment](#environment)
-* [Getting Started](#Getting Started)
+* [Getting Started](#getting started)
 * [Authors](#authors)
 
 ## Environment
@@ -32,4 +32,4 @@ You can launch the API with your storage type of choice and the correct environm
 
 ## Authors
 Isidro Bata - [Github](https://github.com/kiddingmz) / [Linkedin](https://www.linkedin.com/in/isidrobata)  
-Jennifer Huang - [Github](https://github.com/feliciodeangela) / [Linkedin](https://www.linkedin.com/in/feliciodeangela)
+Felício Avelino - [Github](https://github.com/feliciodeangela) / [Linkedin](https://www.linkedin.com/in/feliciodeangela)
