@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""The RESTful api"""
+"""The RESTful api."""
 from os import getenv
 
 from flask import Flask, jsonify
